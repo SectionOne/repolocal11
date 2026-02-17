@@ -1,3 +1,4 @@
 Hola classe
 El meu nom és Pepe
 I tinc 36 anys
+Estic estudiant git i github
