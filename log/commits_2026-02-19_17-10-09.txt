@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+b364ff9 - Oriol, 8 minutes ago : Add script to log last 3 git commits to file
+d802c51 - Oriol, 45 minutes ago : Add test.txt with initial content 'Test'
+ef9644e - Oriol, 49 minutes ago : Add commit logger workflow to GitHub Actions
