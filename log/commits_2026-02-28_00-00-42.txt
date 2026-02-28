@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+5856874 - GitHub Actions, 7 days ago : Auto: Add latest commits log
+30c3015 - GitHub Actions, 8 days ago : Auto: Add latest commits log
+b364ff9 - Oriol, 8 days ago : Add script to log last 3 git commits to file
